@@ -317,6 +317,9 @@ The amount of surface enclosed within the boundary of a figures is called its **
 
 ### Approximating Areas
 
+When you have an irregulary shaped figure, it's very difficult to find the exact area. But we can approximate its area by fitting unit squares inside the figure. Depending on the number of squares that the figure fills completely, more than half and less than half, we approximate the area.
+
+
 ### Problems
 
 paving floors; finding the cost; perimeter of a garden; area of a path; areas of shapes that can be broken down into basic shapes;
