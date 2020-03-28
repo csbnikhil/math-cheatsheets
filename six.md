@@ -40,9 +40,9 @@ $876520$
 
 Given a number of digits, how many different numbers can you form, without repeating any of the digits, using all the digits?
 
-$3$, $2$ -> 2
-$4$, $2$, $3$, $8$ -> 24
-$6$, $0$, $4$, $7$, -> 18
+$3$, $2$ -> 2\
+$4$, $2$, $3$, $8$ -> 24\
+$6$, $0$, $4$, $7$, -> 18\
 
 ### Operations on Large Numbers
 
@@ -242,8 +242,8 @@ An operation is commutative if the result remains the same when the order of ope
 
 $+$ and $\times$ follow this for both $N$ and $W$.
 
-$a + b = b + a$
-$a \times b = b \times a$
+$a + b = b + a$\
+$a \times b = b \times a$\
 
 #### Associative Property
 
@@ -251,8 +251,8 @@ An operation is said to be associative if the result remains the same even when 
 
 $+$ and $\times$ follow this for both $N$ and $W$.
 
-$a + (b + c) = (a + b) + c$
-$a \times (b \times c) = (a \times b) \times c$
+$a + (b + c) = (a + b) + c$\
+$a \times (b \times c) = (a \times b) \times c$\
 
 #### Identity
 
@@ -265,10 +265,10 @@ For every operation, there exists a number $n$, which when operated against any 
 |$\times$ | $1$    |
 |$\div$   | $1$    |
 
-$a + 0 = a$
-$a - 0 = a$
-$a \times 1 = a$
-$a \div 1 = a$
+$a + 0 = a$\
+$a - 0 = a$\
+$a \times 1 = a$\
+$a \div 1 = a$\
 
 #### Inverse
 
@@ -297,21 +297,21 @@ E. g. $1,1,2,3,5,8,...$
 
 #### With Whole and Natural Numbers
 
-$1 + 3 = 4 = 2\times{2} = 2^2$
-$1 + 3 + 5 = 9 = 3\times{3} = 3^2$
-$1 + 3 + 5 + 7 = 16 = 4\times{4} = 4^2$
+$1 + 3 = 4 = 2\times{2} = 2^2$\
+$1 + 3 + 5 = 9 = 3\times{3} = 3^2$\
+$1 + 3 + 5 + 7 = 16 = 4\times{4} = 4^2$\
 
 The sum of first of first $N$ odd natural numbers is $N^2$.
 
 When you sum the first $N$ natural numbers, the pattern that you get is not as easy as this to find, but there is a pattern. It will always be equal to $\frac{N(N + 1)}{2}$.
 
-$1 + 2 + 3 + 4 + 5 = 15$
-$2 + 3 + 4 + 5 + 6 = 20$
-$3 + 4 + 5 + 6 + 7 = 25$
+$1 + 2 + 3 + 4 + 5 = 15$\
+$2 + 3 + 4 + 5 + 6 = 20$\
+$3 + 4 + 5 + 6 + 7 = 25$\
 
-$1\times{1} = 1$
-$11\times{11} = 121$
-$111\times{111} = 12321$
+$1\times{1} = 1$\
+$11\times{11} = 121$\
+$111\times{111} = 12321$\
 
 ### Magic Square
 
@@ -341,21 +341,21 @@ $M = 2n + 1$
 
 #### More Patterns
 
-$1\times{9} + 1 = 10$
-$12\times{9} + 2 = 110$
-$123\times{9} + 3 = 1110$
+$1\times{9} + 1 = 10$\
+$12\times{9} + 2 = 110$\
+$123\times{9} + 3 = 1110$\
 
-$1\times{8} + 1 = 9$
-$12\times{8} + 2 = 98$
-$123\times{8} + 3 = 987$
+$1\times{8} + 1 = 9$\
+$12\times{8} + 2 = 98$\
+$123\times{8} + 3 = 987$\
 
-$9\times{9} + 7 = 88$
-$98\times{9} + 6 = 888$
-$987\times{9} + 5 = 8888$
+$9\times{9} + 7 = 88$\
+$98\times{9} + 6 = 888$\
+$987\times{9} + 5 = 8888$\
 
-$111\div3=37$
-$222\div6=37$
-$333\div9=37$
+$111\div3=37$\
+$222\div6=37$\
+$333\div9=37$\
 
 ### Problems on Magic Square
 
@@ -372,7 +372,7 @@ _ _ 10
 ```
 16 2 _
 _ 10 _
-__ _ 4
+_ _  4
 ```
 
 > More examples on the fly.
@@ -380,7 +380,7 @@ __ _ 4
 ## Negative Numbers and Integers
 
 Where do the negative numbers come from?
-When discussing the closure property, we said that only $\mul$ and $+$ were closed under $W$. What happens when we subtract a larger whole number from a smaller whole number? We get a new kind of number that would be out of our then Number Line. These numbers are called the negative numbers.
+When discussing the closure property, we said that only $\times$ and $+$ were closed under $W$. What happens when we subtract a larger whole number from a smaller whole number? We get a new kind of number that would be out of our then Number Line. These numbers are called the negative numbers.
 
 Where do you see negative numbers in reality?
 
