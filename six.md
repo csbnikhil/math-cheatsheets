@@ -42,7 +42,9 @@ Given a number of digits, how many different numbers can you form, without repea
 
 $3$, $2$ -> 2\
 $4$, $2$, $3$, $8$ -> 24\
-$6$, $0$, $4$, $7$, -> 18### Operations on Large Numbers
+$6$, $0$, $4$, $7$, -> 18
+
+### Operations on Large Numbers
 
 > Examples on the fly.
 
@@ -241,14 +243,18 @@ An operation is commutative if the result remains the same when the order of ope
 $+$ and $\times$ follow this for both $N$ and $W$.
 
 $a + b = b + a$\
-$a \times b = b \times a$#### Associative Property
+$a \times b = b \times a$
+
+#### Associative Property
 
 An operation is said to be associative if the result remains the same even when the order of operations is changed.
 
 $+$ and $\times$ follow this for both $N$ and $W$.
 
 $a + (b + c) = (a + b) + c$\
-$a \times (b \times c) = (a \times b) \times c$#### Identity
+$a \times (b \times c) = (a \times b) \times c$
+
+#### Identity
 
 For every operation, there exists a number $n$, which when operated against any number $a$, preserves the value of $a$.
 
@@ -262,7 +268,9 @@ For every operation, there exists a number $n$, which when operated against any 
 $a + 0 = a$\
 $a - 0 = a$\
 $a \times 1 = a$\
-$a \div 1 = a$#### Inverse
+$a \div 1 = a$
+
+#### Inverse
 
 An inverse is a number, which when operated against a number gives the result as the operation's identity.
 
@@ -299,7 +307,9 @@ $1 + 2 + 3 + 4 + 5 = 15$\
 $2 + 3 + 4 + 5 + 6 = 20$\
 $3 + 4 + 5 + 6 + 7 = 25$$1\times{1} = 1$\
 $11\times{11} = 121$\
-$111\times{111} = 12321$### Magic Square
+$111\times{111} = 12321$
+
+### Magic Square
 
 It's an arrangement of different whole numbers in the form of a square such that the sum of the numbers is the same along all the verticals, the horizontals and the diagonals.
 
