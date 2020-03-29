@@ -551,8 +551,67 @@ Similary, for some element not belonging to A.
 
 $\epsilon$ is a Greek symbol, called `epsilon`.
 
+Let $A=\{2, 3, 5, 7, 9\}$. Which of the following statements is true?
+
+- $8 \epsilon A$
+- $5 \epsilon A$
+
+> More on the fly.
+
+### Properties of a Set
+
+- Sets are unordered.
+- Sets do not contain duplicates.
+
+##### Questions
+
+- Write the set of letters in your name.
+- Write the set of vowels in your name.
+- Write the set of consonants in your name.
+
+### Representation
+
+- Description
+- Roster / Tabular
+- Rule / Set Builder
+
+#### Description
+
+* A set of players under the age of 17.
+* A set of all prime numbers that are less than 20.
+
+#### Roster / Tabular
+
+* $P = \{2, 3, 5, 7, 11, 13, 17, 19\}$
+* $O = \{-5, -3, -1, 1, 3\}$
+
+##### Rule / Set Builder
+
+* $P = \{x:x is a prime < 20\}$
+* $O = \{x|x is an odd number between -6 and +4\}$
+
+#### Important Facts
+
+Define the set of $N$, $W$ and $I$ in all the three forms.
+
+Extend to describe the sets of even and odd numbers.
+
+> A set can also be represented by closed figures, such as recatangles, squares...
+
+### Types
+
+- Finite Set
+- Infinite Set
+- Empty / Null Set
+- Equal Sets
+- Equivalent Sets
+- Disjoint Sets
+- Overlapping Sets
+- Cardinality of a Set
 
 
+
+## Ration, Proportion and Arithmetic
 
 
 
