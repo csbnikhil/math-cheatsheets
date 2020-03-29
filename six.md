@@ -451,12 +451,106 @@ A number line can be used to represent all kinds of numbers, but we will only be
 
 ## HCF and LCM
 
-Refer to **Factors and Multiples** of [CLASS V](/MqWSlaYFTHKfLyyV19REIA).
+Refer to **Factors and Multiples** of [CLASS V](/MqWSlaYFTHKfLyyV19REIA) for in depth explanation.
 
 ### Prime Numbers from 1 to 100
 
 - List out all the numbers
 - Starting from 2, cancel out all the numbers that are multiples of 2, 3, 4, ..., 10.
+
+### Prime Factors
+
+### Highest Common Factor
+
+#### Methods
+
+- Common Factor
+- Prime Factor
+- Division
+
+### Lowest Common Multiple
+
+#### Methods
+
+- Common Multiple
+- Prime Factor
+- Common Division
+
+> Examples on the fly.
+
+## Playing With Numbers
+
+### Simplification of Brackets
+
+Refer to **BODMAS** of [Class V](/MqWSlaYFTHKfLyyV19REIA).
+
+### Finding Divisors
+
+- The number of ways in which 2 coins can be arranged to form a rectangle: 2 ways -- 1x2; 2x1;
+- The number of ways in which 4 coins can be arranged to form a rectangle: 3 ways -- 1x4; 2x2; 4x1;
+- The number of ways in which 6 coins can be arranged to form a rectangle: 4 ways -- 1x6; 3x2; 6x1; 2x3;
+
+In $1\times{6}$, we say that $1$ and $6$ divide $6$ exactly.\
+In $2\times{3}$, we say that $2$ and $3$ are divisors of $6$.
+
+So, $$1$$, $2$, $3$, and $6$ are the divisors of $6$.
+
+Consider $12$ coins,\
+We have: 1x12, 2x6, 3x4, 6x2, 12x1. So, the divisors of $12$ are: 1, 2, 3, 4, 6, and 12.
+
+> More examples on the fly.
+
+Factor: a divisor of a number.\
+Multiple: a number obtained by multiplying a whole number to another number.
+
+> **Note**: $1$ is a factor of every number, and $0$ is a multiple of every number.
+
+### Even and Odd
+
+Multiples of $2$ are called even numbers. Another way to remember the evenness of a number is see the last digit, if it is either of $0$, $2$, $4$, $6$, or $8$, it is an even number.
+
+Visit **Tests of Divisibility** [Class IV]().
+
+## Sets
+
+A set is a collection of items: well defined objects.But what is well-defined? It means that it has to be absolutely clear with which belongs to or does not belong to the set.
+
+Consider the following things:
+
+- A collection of *lovely* flowers.
+- A collection of *red* flowers.
+- A group of *young* players.
+- A group of players *under the age of 17*.
+
+Which of them are sets?
+
+##### More Collections
+
+- Difficult problems
+- Problems that are difficult to you
+- Games that you like
+- Good movies
+
+### Members / Elements
+
+An item $X$ is a member/element of a set $S$, if $X$ is inside of $S$.
+
+
+#### Notation
+
+
+A set is written as below:
+
+$A=\{a,b,c,d\}$
+
+> Convention: *Set* names will be in **CAPS**, while the names of the *elements* will be in **small letters**.
+
+In the above set, we say that $a \epsilon A$ (read as `a belongs to A`).
+
+Similary, for some element not belonging to A.
+
+$\epsilon$ is a Greek symbol, called `epsilon`.
+
 
 
 
