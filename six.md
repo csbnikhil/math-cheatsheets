@@ -611,7 +611,7 @@ Extend to describe the sets of even and odd numbers.
 
 
 
-## Ration, Proportion and Arithmetic
+## Ratio
 
 The need for comparison, and how we compare things:
 
@@ -627,6 +627,9 @@ Conside $x$ and $y$, we can say the following things:
 
 Your notebook has $100$ pages, but the textbook has $573$. When we consider the difference: $573 - 100 = 473$, we say that your notebook has $473$ *less* pages than your textbook, or your textbook has $473$ *more* pages than your botebook.
 
+Another example:
+
+Let's say two of your friends are 47 kg and 48 kg. In order to compare, you find the difference by *subtracting*
 
 
 
