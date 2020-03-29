@@ -613,6 +613,21 @@ Extend to describe the sets of even and odd numbers.
 
 ## Ration, Proportion and Arithmetic
 
+The need for comparison, and how we compare things:
+
+Conside $x$ and $y$, we can say the following things:
+
+- $x$ is greater than $y$
+- $y$ is half of $x$
+- $\frac{x}{y}=\frac{10}{5}$
+
+### Methods pf Comparison
+
+#### Comparison by Subtraction
+
+Your notebook has $100$ pages, but the textbook has $573$. When we consider the difference: $573 - 100 = 473$, we say that your notebook has $473$ *less* pages than your textbook, or your textbook has $473$ *more* pages than your botebook.
+
+
 
 
 
