@@ -493,7 +493,7 @@ Refer to **BODMAS** of [Class V](/MqWSlaYFTHKfLyyV19REIA).
 In $1\times{6}$, we say that $1$ and $6$ divide $6$ exactly.\
 In $2\times{3}$, we say that $2$ and $3$ are divisors of $6$.
 
-So, $$1$$, $2$, $3$, and $6$ are the divisors of $6$.
+So, $1$, $2$, $3$, and $6$ are the divisors of $6$.
 
 Consider $12$ coins,\
 We have: 1x12, 2x6, 3x4, 6x2, 12x1. So, the divisors of $12$ are: 1, 2, 3, 4, 6, and 12.
