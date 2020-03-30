@@ -643,9 +643,9 @@ This was comparison by division.
 
 The relation of two quantities (same unit, same kind) obtained on dividing one quantity by the other is called their **ratio**.
 
-> **Important**:\
+> **Important**:
 - Ratios are always expressed in their simplest form.
-- Ratios are ordered expressions: $x:y != y:x$
+- Ratios are ordered expressions.
 - A ratio between unlike quantities has no meaning.
 - A ratio between like quantities but with different units is also rendered meaningless.
 - A ratios is a pure number (abstract) hence no unit. You can think of it has the units will cancel each other, hence no units.
@@ -690,6 +690,41 @@ Consider two ratios $A = \frac{a}{b}$ and $B = \frac{c}{d}$.
 - $a\times{b} < b\times{c}$ implies $A<B$.
 
 > Examples on the fly.
+
+#### Increase or Decrease a Number with a Given Ratio
+
+In order to increase $342$ in the ratio 3:4, divide it with the ratio, because the antecedant is less than the consequest.
+
+In order to decrease $575$ in the ratio 5:2, divide it with the ratio, because the antecedant is less that the consequent.
+
+In order to decrease $342$ in the ratio 3:4, multiply it with the ratio, because the antecedant is less than the consequest.
+
+> More examples on the fly.
+
+## Proportions
+
+A proportion is an expression that states the two given ratios are equal.
+
+Consider,
+
+$4 pencils: 10 books$ and $2 pens: 5 diaries$.
+
+In proportions, it is written as $4:10::2:5$ or $4:10=2:5$, and read as `4 is to 10 as 2 is to 5`.
+
+> Questions on identifying whether the given ratios form a proportion on the fly.
+
+## Continued Proprtion
+
+Three terms a, b and c (same type and unit) are said to be in continued proportion, if:
+
+$$a:b=b:c$$
+
+The repeating term $b$ is called the **mean proportional** between a and c, and the therd term c is called the third proportional.
+
+$$a:b=b:c => \frac{a}{b}=\frac{b}{c} => b\times{b}=a\times{c}$$
+$$b=\sqrt{a\times{c}}$$
+
+
 
 
 
