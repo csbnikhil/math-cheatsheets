@@ -685,10 +685,11 @@ We can have 4 (3 + 1) parts, and give 1 part to one person, and 3 parts to the o
 
 Consider two ratios $A = \frac{a}{b}$ and $B = \frac{c}{d}$.
 
-- $a\times{b} = b\times{c}$ => $A=B$
-- $a\times{b} > b\times{c}$ => $A>B$
-- $a\times{b} < b\times{c}$ => $A<B$
+- $a\times{b} = b\times{c}$ implies $A=B$.
+- $a\times{b} > b\times{c}$ implies $A>B$.
+- $a\times{b} < b\times{c}$ implies $A<B$.
 
+> Examples on the fly.
 
 
 
