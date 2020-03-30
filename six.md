@@ -627,9 +627,67 @@ Conside $x$ and $y$, we can say the following things:
 
 Your notebook has $100$ pages, but the textbook has $573$. When we consider the difference: $573 - 100 = 473$, we say that your notebook has $473$ *less* pages than your textbook, or your textbook has $473$ *more* pages than your botebook.
 
-Another example:
+Let's say two boys are 47 kg and 48 kg. In order to compare, you find the difference by *subtracting* the two weights and say that one boy weighs 1 kg more than the other.
 
-Let's say two of your friends are 47 kg and 48 kg. In order to compare, you find the difference by *subtracting*
+This is comparing by subtraction.
+
+Consider two squares with sides 2 cm and 4 cm. What is the area of the two?
+
+$16 \div 4 = 4$
+
+We say that the area of the bigger square is 4 times that of the smaller square. Or, the area of the smaller square is one fourth of that of the bigger square.
+
+This was comparison by division.
+
+### Ratio
+
+The relation of two quantities (same unit, same kind) obtained on dividing one quantity by the other is called their **ratio**.
+
+> **Important**:\
+- Ratios are always expressed in their simplest form.
+- Ratios are ordered expressions: $x:y != y:x$
+- A ratio between unlike quantities has no meaning.
+- A ratio between like quantities but with different units is also rendered meaningless.
+- A ratios is a pure number (abstract) hence no unit. You can think of it has the units will cancel each other, hence no units.
+
+#### More Terminology
+
+The first term is called the **antecedant**.
+The second term is called the **consequent**.
+
+> **Note**: The value of a ratio remains unchanged if both the terms are multiplied / divided by the same number.
+
+### Converting to Simple Ratio
+
+A fool proof method is to multiple all the terms with the LCM of all the denominators, but depending on the numbers, there can be shorter methods.
+
+Simplify the following:
+
+- $3\frac{1}{2}:2\frac{1}{3}$
+- $\frac{2}{3}:\frac{4}{5}:\frac{1}{2}$
+
+> More on the fly.
+
+### Ratio Among 3 Numbers
+
+There are three triangles whose areas in the ratio $1:3:7$. If the area of the largest triangle is 63 sq cm, what are the areas of the other triangles?
+
+> More questions on finding the ratio of numbers on the fly.
+
+### Dividing a Quantity in the Given Ratio
+
+Divide $12$ candies between two people in the ratio $1:3$.
+We can have 4 (3 + 1) parts, and give 1 part to one person, and 3 parts to the other.
+
+> More questions on the fly.
+
+### Comparison
+
+Consider two ratios $A = \frac{a}{b}$ and $B = \frac{c}{d}$.
+
+- $a\times{b} = b\times{c}$ => $A=B$
+- $a\times{b} > b\times{c}$ => $A>B$
+- $a\times{b} < b\times{c}$ => $A<B$
 
 
 
@@ -648,3 +706,4 @@ Let's say two of your friends are 47 kg and 48 kg. In order to compare, you find
 
 
 ###### tags: `Math` `Cheat Sheet`
+
