@@ -146,11 +146,11 @@ Represents a number a number in words.
 
 ### Indian System of Numeration
 
-Refer to [CLASS V](/MqWSlaYFTHKfLyyV19REIA).
+Refer to **Number Systems** of [CLASS V](/MqWSlaYFTHKfLyyV19REIA).
 
 ### International System of Numeration
 
-Refer to [CLASS V](/MqWSlaYFTHKfLyyV19REIA).
+Refer to **Number Systems** of [CLASS V](/MqWSlaYFTHKfLyyV19REIA).
 
 > Examples on the fly.
 
@@ -509,7 +509,7 @@ Multiple: a number obtained by multiplying a whole number to another number.
 
 Multiples of $2$ are called even numbers. Another way to remember the evenness of a number is see the last digit, if it is either of $0$, $2$, $4$, $6$, or $8$, it is an even number.
 
-Visit **Tests of Divisibility** [Class IV]().
+Visit **Tests of Divisibility** of [Class IV]().
 
 ## Sets
 
@@ -707,7 +707,7 @@ A proportion is an expression that states the two given ratios are equal.
 
 Consider,
 
-$4 pencils: 10 books$ and $2 pens: 5 diaries$.
+$4\;pencils: 10\;books$ and $2\;pens: 5\;diaries$.
 
 In proportions, it is written as $4:10::2:5$ or $4:10=2:5$, and read as `4 is to 10 as 2 is to 5`.
 
@@ -724,7 +724,26 @@ The repeating term $b$ is called the **mean proportional** between a and c, and 
 $$a:b=b:c => \frac{a}{b}=\frac{b}{c} => b\times{b}=a\times{c}$$
 $$b=\sqrt{a\times{c}}$$
 
+> Examples on the fly.
 
+## Unitary Method
+
+The method in which we first find the value of a unti and use that value to find the value of any other required quantity, is called the **unitary method**.
+
+### Variations
+
+- Direct: Both quantities vary in the same direction.
+- Inverse: Both quantities vary in the opposite directions.
+
+> More examples on the fly.
+
+## Fractions
+
+Refer to **Fractions** of [Class V](/MqWSlaYFTHKfLyyV19REIA).
+
+## Decimal Fractions
+
+Refer to **Decimal Fractions** of [Class V](/MqWSlaYFTHKfLyyV19REIA).
 
 
 
