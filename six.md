@@ -755,11 +755,11 @@ percent = for every 100, or out of 100
 
 Let's say you scored 89 marks of 100, which means you 89 out of a 100. This is easy. You scored 89% of marks. And btw, **%** is the symbol for **percent**. Consider you scored 48 out of 50 in another exam. If we multiply the numerator and the denominator by 2, we will not be manipulating the value as 2's would cancel each other, and it will be an equivalent fraction, but we'll have the denominator as 100. Then we can say that, for the same exam: you scored 96% of the marks.
 
-When you select a part $x$ out of 100, that is going to be $x%$.
+When you select a part $x$ out of 100, that is going to be $x\%$.
 
 ## Converting into Percentages
 
-Multiply by 100 and simplify. Also, write $%$ as you do not want to change the actual value, and as $%$ means divided by 100, you will keep the original value unchanged. This will work for both **fractions** and **decimals**.
+Multiply by 100 and simplify. Also, write $\%$ as you do not want to change the actual value, and as $\%$ means divided by 100, you will keep the original value unchanged. This will work for both **fractions** and **decimals**.
 
 ### Expressing One Quantity as a Percentage of the Other
 
@@ -771,8 +771,8 @@ Express the given percentage as a fraction and multiply it by the given number.
 
 ### Finding the Increase or Decrease in Percent
 
-$%\;increase = \frac{increase\;in\;value}{original\;value}\times{100%}$
-$%\;decrease = \frac{decrease\;in\;value}{original\;value}\times{100%}$
+$\%\;increase = \frac{increase\;in\;value}{original\;value}\times{100\%}$
+$\%\;decrease = \frac{decrease\;in\;value}{original\;value}\times{100\%}$
 
 > Questions on converting fractions to percentages.
 
