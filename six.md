@@ -795,7 +795,7 @@ If a runner covered 200 m in 25 s, find the distance he covered in 5 s, and how 
 
 ### Converting between Units
 
-$ms{^-1}$ to $kmh{^-1}$ and vice versa.
+$ms^{-1}$ to $kmh^{-1}$ and vice versa.
 
 > Explain trains, stations and platforms.
 
@@ -815,15 +815,15 @@ $+$, $-$, $\times$, $\div$ have the same meaning here, as in arithmetic.
 
 |Symbol         |Meaning          |
 |:-------------:|:----------------|
-|$=$            |Equal To         |
-|$\neq$         |Not Equal To     |    
-|$<$            |Less Than        | 
-|$\nless$       |Not Less Than    |     
-|$>$            |Greater Than     |    
-|$\ngtr$        |Not Greater Than |        
-|$\Rightarrow$  |Implies That     |    
-|$\therefore$   |Therefore        | 
-|$\because$     |Because          | 
+|$=$            |equal to         |
+|$\neq$         |not equal to     |    
+|$<$            |less than        | 
+|$\nless$       |not less than    |     
+|$>$            |greater than     |    
+|$\ngtr$        |not greater than |        
+|$\Rightarrow$  |implies that     |    
+|$\therefore$   |therefore        | 
+|$\because$     |because          | 
 
 #### Switching Between Algebra and Words
 
@@ -836,8 +836,40 @@ Some variables: $x$, $y$, $z$, $p$
 
 > Note: Every combination of a constant and a variable is going to be a variable. E. g. $3x$, $7x - 5$.
 
+#### Terms
 
+Consider the expression,
 
+$$3x+8y+2$$
+
+Terms in te expression are $3x$, $3y$ and $2$. The first two are variable terms and the last one is a constant term.
+
+##### Like and Unlike
+
+Like: same literal coefficients\
+Unlike: different literal coefficients
+
+> Problems on counting the number of terms.
+
+#### Types of Algebraic Expressions
+
+Based on the number of terms there are inside an expression, we have the following types.
+
+- Monomial
+- Binomial
+- Trinomial
+- Multinomial
+- Polynomial
+
+### Products and Factors
+
+$5x$ is the product of $x$ and $5$, while $5$ and $x$ are the factors of $5x$.
+
+### Coefficients
+
+These are a group of factors.
+
+In $4ab$, $4$ is the coefficient of $ab$, $b$ is the coefficient of $4a$, and so on...
 
 
 
