@@ -787,7 +787,42 @@ If you cover 1.2 km in 20 minutes, what is your speed in km/h and m/s?
 
 ### Uniform and Variable Speeds
 
+If an object covers equal distances in equal intervals of time, that object is said to have a **uniform speed**, else a **variable speed**.
 
+If a runner covered 200 m in 25 s, find the distance he covered in 5 s, and how much time did he take to run two fifths of a km.
+
+> Explain Average Speed and give problems on a train.
+
+### Converting between Units
+
+$ms^-1$ to $kmh^-1$ and vice versa.
+
+> Explain trains, stations and platforms.
+
+A 160 m long train is travelling at a speed pf 72 km/h. Find the time taken by it to pass a pole and platform of 0.5 km.
+
+## Fundamental Concepts
+
+### Algebra
+
+Algebra is a generalized form of Arithmetic, where instead of numbers we use **variables** alongside numbers. A variable, also called a literal or a literal number, does not have a fixed value, and hence the name.
+
+Consider a square with a side length $l$. We know that the area of the square is going to $l^2$. Here, $l$ is a variable. And the area is a general form, stating that whatever the side of the square, the area is always going to equal the square of the side length.
+
+#### Signs and Symbols
+
+$+$, $-$, $\times$, $\div$ have the same meaning here, as in arithmetic.
+
+|Symbol         |Meaning          |
+|---------------+-----------------|
+|$=$            |Equal To         |
+|$\neq$         |Not Equal To     |    
+|$<$            |Less Than        | 
+|$\nless$       |Not Less Than    |     
+|$>$            |Greater Than     |    
+|$\ngtr$        |Not Greater Than |        
+|$\rightarrow$  |Implies That     |    
+|$\therefore$   |Therefore        | 
 
 
 
