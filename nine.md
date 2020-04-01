@@ -1,6 +1,8 @@
 # CLASS IX
 
+<!--
 1. [Circles](#circles)
+-->
 
 ## Circles
 
@@ -18,5 +20,16 @@ A circle is a collection of points all of which are equidistant from a fixed poi
 * Sector: A part of a circle formed by two radii.
     * Major: Reflex angle at the center
     * Minor: An angle less than 180 deg. at the center
+
+
+
+
+
+
+
+
+
+
+
 
 ###### tags: `Math` `Cheat Sheet`
