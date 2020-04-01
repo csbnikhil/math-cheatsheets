@@ -781,7 +781,7 @@ $\%\;decrease = \frac{decrease\;in\;value}{original\;value}\times{100\%}$
 
 Speed is the amount of distance covered in unit time.
 
-$speed=frac{distance}{time}$
+$speed=\frac{distance}{time}$
 
 If you cover 1.2 km in 20 minutes, what is your speed in km/h and m/s?
 
@@ -795,7 +795,7 @@ If a runner covered 200 m in 25 s, find the distance he covered in 5 s, and how 
 
 ### Converting between Units
 
-$ms^-1$ to $kmh^-1$ and vice versa.
+$ms{^-1}$ to $kmh{^-1}$ and vice versa.
 
 > Explain trains, stations and platforms.
 
@@ -814,7 +814,7 @@ Consider a square with a side length $l$. We know that the area of the square is
 $+$, $-$, $\times$, $\div$ have the same meaning here, as in arithmetic.
 
 |Symbol         |Meaning          |
-|---------------+-----------------|
+|:-------------:|:----------------|
 |$=$            |Equal To         |
 |$\neq$         |Not Equal To     |    
 |$<$            |Less Than        | 
@@ -823,6 +823,7 @@ $+$, $-$, $\times$, $\div$ have the same meaning here, as in arithmetic.
 |$\ngtr$        |Not Greater Than |        
 |$\rightarrow$  |Implies That     |    
 |$\therefore$   |Therefore        | 
+|$\because$     |Because          | 
 
 
 
