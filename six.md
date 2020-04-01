@@ -807,7 +807,7 @@ A 160 m long train is travelling at a speed pf 72 km/h. Find the time taken by i
 
 Algebra is a generalized form of Arithmetic, where instead of numbers we use **variables** alongside numbers. A variable, also called a literal or a literal number, does not have a fixed value, and hence the name.
 
-Consider a square with a side length $l$. We know that the area of the square is going to $l^2$. Here, $l$ is a variable. And the area is a general form, stating that whatever the side of the square, the area is always going to equal the square of the side length.
+Consider a square with a side length $l$. We know that the area of the square is going to be $l^2$. Here, $l$ is a variable. And the area is a general form, stating that whatever the side of the square, the area is always going to equal the square of the side length.
 
 #### Signs and Symbols
 
@@ -821,9 +821,21 @@ $+$, $-$, $\times$, $\div$ have the same meaning here, as in arithmetic.
 |$\nless$       |Not Less Than    |     
 |$>$            |Greater Than     |    
 |$\ngtr$        |Not Greater Than |        
-|$\rightarrow$  |Implies That     |    
+|$\Rightarrow$  |Implies That     |    
 |$\therefore$   |Therefore        | 
 |$\because$     |Because          | 
+
+#### Switching Between Algebra and Words
+
+Teach how to write Algebraic Expression give a sentence, and vice versa.
+
+#### Constants and Variables
+
+Some constants: $-1$, $5$, $890$, $\frac{3}{7}$, $3.14159$
+Some variables: $x$, $y$, $z$, $p$
+
+> Note: Every combination of a constant and a variable is going to be a variable. E. g. $3x$, $7x - 5$.
+
 
 
 
