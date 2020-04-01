@@ -771,10 +771,23 @@ Express the given percentage as a fraction and multiply it by the given number.
 
 ### Finding the Increase or Decrease in Percent
 
-$\%\;increase = \frac{increase\;in\;value}{original\;value}\times{100\%}$
+$\%\;increase = \frac{increase\;in\;value}{original\;value}\times{100\%}$\
 $\%\;decrease = \frac{decrease\;in\;value}{original\;value}\times{100\%}$
 
-> Questions on converting fractions to percentages.
+
+> Questions on the fly.
+
+## Speed, Distance and Time
+
+Speed is the amount of distance covered in unit time.
+
+$speed=frac{distance}{time}$
+
+If you cover 1.2 km in 20 minutes, what is your speed in km/h and m/s?
+
+### Uniform and Variable Speeds
+
+
 
 
 
