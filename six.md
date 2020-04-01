@@ -771,8 +771,8 @@ Express the given percentage as a fraction and multiply it by the given number.
 
 ### Finding the Increase or Decrease in Percent
 
-$%\;increase = \frac{increase\;in\;value}{original\;value}\times{100%}
-$%\;decrease = \frac{decrease\;in\;value}{original\;value}\times{100%}
+$%\;increase = \frac{increase\;in\;value}{original\;value}\times{100%}$
+$%\;decrease = \frac{decrease\;in\;value}{original\;value}\times{100%}$
 
 > Questions on converting fractions to percentages.
 
