@@ -831,7 +831,7 @@ Teach how to write Algebraic Expression give a sentence, and vice versa.
 
 #### Constants and Variables
 
-Some constants: $-1$, $5$, $890$, $\frac{3}{7}$, $3.14159$
+Some constants: $-1$, $5$, $890$, $\frac{3}{7}$, $3.14159$\
 Some variables: $x$, $y$, $z$, $p$
 
 > Note: Every combination of a constant and a variable is going to be a variable. E. g. $3x$, $7x - 5$.
@@ -869,7 +869,71 @@ $5x$ is the product of $x$ and $5$, while $5$ and $x$ are the factors of $5x$.
 
 These are a group of factors.
 
-In $4ab$, $4$ is the coefficient of $ab$, $b$ is the coefficient of $4a$, and so on...
+In $4ab$, $4$ is the number coefficient of $ab$, $b$ is the literal coefficient of $4a$, and so on...
+
+### Powers of Literal Quantities
+
+When a quantity is multiplied by itself a number of times, the product is called its power.
+
+$l\times{l}=l^2$\
+{l\times{l}\times{l}=l^3$
+
+In the above examples, $l$ is the **base**, and $2$ and $3$ are called **powers**, **exponents** or **indices**.
+
+### Polynomials and their Degrees
+
+A polynomial is categorized based on the number of vars available and their powers.
+
+A polynomial in one variable with the degree 3, is an expression containing only variable, whose highest power is 3.\
+E. g. $x^3+2x^2+5x+80$
+
+## Fundamental Operations
+
+$+$, $-$, $\times$, $div$ are the Fundamental Operations.
+
+### Addition and Subtraction of Like Terms
+
+$3x+4x=(3+4)x=7x$\
+$3x-4x=(3-4)x=-1x$
+
+> Arithmetic Operations with Unlike Terms will not be possible.
+
+### Addition and Subtraction of Polynomials
+
+$4a+2b,3a-3b+c,-2a+4b+2c$
+
+#### Row Method
+
+$(4+3-2)a+(2-3+4)b+(1+2)c$\
+$9a+3b+3c$
+
+#### Column Method
+
+$4a+2b+0c$\
+$3a-3b+c$\
+$-2a+4b+2c$
+
+$9a+3b+3c$
+
+### Multiplication of Binomials
+
+$(x+3)\times{(x+5)}$\
+$(2x-4)\times{(8x+5)}$
+
+### Division of Polynomials
+
+$\frac{10ab}{5a}$
+
+> More examples on the fly.
+
+Explaing the **quotient law** exponents.
+
+- Monomial / Monomial
+- Polunomial / Monomial
+
+
+
+
 
 
 
