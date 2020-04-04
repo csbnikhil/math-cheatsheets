@@ -876,7 +876,7 @@ In $4ab$, $4$ is the number coefficient of $ab$, $b$ is the literal coefficient 
 When a quantity is multiplied by itself a number of times, the product is called its power.
 
 $l\times{l}=l^2$\
-{l\times{l}\times{l}=l^3$
+${l\times{l}\times{l}=l^3$
 
 In the above examples, $l$ is the **base**, and $2$ and $3$ are called **powers**, **exponents** or **indices**.
 
@@ -926,10 +926,75 @@ $\frac{10ab}{5a}$
 
 > More examples on the fly.
 
-Explaing the **quotient law** exponents.
+Explain the **quotient law** of exponents.
 
 - Monomial / Monomial
 - Polunomial / Monomial
+
+## Substitution
+
+The value of an expression depends on the values of its variables.
+Consider $2x+3$. When $x=2$, the expression would evaluate to $2\times{2}+4$, which would give the value of $8$. For a different value of $x$, say 7, the expression would evaluate to $17$.
+The process of giving a value to a variable, to get a definite value of an expression, is called **substitution**.
+
+> More examples on the fly.
+
+Recall the bracket precedence. Refer to **BODMAS** of [Class V]().
+
+> Explain how distributive property applies to removal, and insertion of brackets.
+
+> Examples on the fly.
+
+## Framing Algebraic Expressions
+
+The objective of this chapter is to teach you how to formulate your own expression given a set of statements.
+
+### Examples
+
+A number $x$ is 5 times of 16.\
+$x=5\times{16}$
+
+3 times of a number $y$ is 27.\
+$3y=27$
+
+The process of expressing a worded statement in algebra is called **framing of formula**.
+
+> More examples on the fly.
+
+### Evaluation of Algebraic Expressions
+
+What is the value of $2x+3$, when $x=4$?
+
+> More examples involving brackets and exponents.
+
+## Simple Linear Equations
+
+A mathematical statement, which shows that two algebraic expressions are equal, is called an **equation**.
+
+> Include the examples given in the previous chapter.
+
+> Brief about what makes an equation linear.
+
+### Solving a Linear Equation in One Vairable
+
+Finding the value of the variable, for which the equality holds true, is itself the process of **solving**.
+
+There is only one value of $x$, for which, the equation $2x+3=5$ holds valid. But how do we get that value? We'll look at rules to solving Linear Equations in One Variable.
+
+### Rules
+
+|Operator  |Complement  |
+|----------|------------|
+|$+$       |$-$         |
+|$-$       |$+$         |
+|$\times$  |$\div$      |
+|$\div$    |$\times$    |
+
+
+
+
+
+
 
 
 
