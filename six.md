@@ -53,11 +53,10 @@ $6$, $0$, $4$, $7$, -> 18
 - What is the smallest 6 digit number?
 - What is the largest 5 digit number?
 - What is the difference between the largest 3 digit number and the smallest 2 digit number?
-
 - You're at a game store, and there are three different games that you'd like to buy. Following are the prices of each game: 
-**FEZ**: 6700 
-**Untitled Goose Game**: 4559
-**Baba Is You**: 4999
+**FEZ**: 6700\
+**Untitled Goose Game**: 455\
+**Baba Is You**: 499\
     * If you were to buy all of the three, how much money would you require?
     * If you were to spend the least amount of money, but wanted to get two of those three, which two would you buy?
 How costlier is the costliest game of these three, than the cheapest?
@@ -258,12 +257,12 @@ $a \times (b \times c) = (a \times b) \times c$
 
 For every operation, there exists a number $n$, which when operated against any number $a$, preserves the value of $a$.
 
-|Operation|Inverese|
+|Operation|Inverse |
 |:-------:|:------:|
-|$+$      | $0$    |
-|$-$      | $0$    |
-|$\times$ | $1$    |
-|$\div$   | $1$    |
+|$+$      |$0$     |
+|$-$      |$0$     |
+|$\times$ |$1$     |
+|$\div$   |$1$     |
 
 $a + 0 = a$\
 $a - 0 = a$\
@@ -587,8 +586,8 @@ Let $A=\{2, 3, 5, 7, 9\}$. Which of the following statements is true?
 
 ##### Rule / Set Builder
 
-* $P = \{x:x is a prime < 20\}$
-* $O = \{x|x is an odd number between -6 and +4\}$
+* $P = \{x:x\;is\;a\;prime < 20\}$
+* $O = \{x|x\;is\;an\;odd\;number\;between\;-6\;and\;+4\}$
 
 #### Important Facts
 
@@ -713,7 +712,7 @@ In proportions, it is written as $4:10::2:5$ or $4:10=2:5$, and read as `4 is to
 
 > Questions on identifying whether the given ratios form a proportion on the fly.
 
-## Continued Proprtion
+### Continued Proportion
 
 Three terms a, b and c (same type and unit) are said to be in continued proportion, if:
 
@@ -974,6 +973,8 @@ A mathematical statement, which shows that two algebraic expressions are equal, 
 > Include the examples given in the previous chapter.
 
 > Brief about what makes an equation linear.
+- Recall degree
+- If the degree of of the given equation is 1, then it's a Linear Equation.
 
 ### Solving a Linear Equation in One Vairable
 
@@ -984,11 +985,32 @@ There is only one value of $x$, for which, the equation $2x+3=5$ holds valid. Bu
 ### Rules
 
 |Operator  |Complement  |
-|----------|------------|
+|:--------:|:----------:|
 |$+$       |$-$         |
 |$-$       |$+$         |
 |$\times$  |$\div$      |
 |$\div$    |$\times$    |
+
+If you operate something on one side, you have to do it on the other side as well, so that the equation will still hold true.
+
+The above statement will tackle the following forms of equations:
+- $x+a=b$
+- $x-a=b$
+- $x\times{a}=b$
+- $\frac{x}{a}=b$
+
+Whenever you move a variable or a constant, from one side to the other, its sign becomes its complement sign. Refer the table and show some examples.
+
+This is called the **trasportation** method, as transport the quantities across the two sides of the equation.
+
+You have $x$ rupees. When you give 20 to your friend, he'll have half the money you had before giving him the money. How much money did you have?
+
+> More examples on the fly.
+
+
+
+
+
 
 
 
