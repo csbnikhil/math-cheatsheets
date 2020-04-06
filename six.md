@@ -53,10 +53,10 @@ $6$, $0$, $4$, $7$, -> 18
 - What is the smallest 6 digit number?
 - What is the largest 5 digit number?
 - What is the difference between the largest 3 digit number and the smallest 2 digit number?
-- You're at a game store, and there are three different games that you'd like to buy. Following are the prices of each game: 
+- You're at a game store, and there are three different games that you'd like to buy. Following are the prices of each game:\
 **FEZ**: 6700\
 **Untitled Goose Game**: 455\
-**Baba Is You**: 499\
+**Baba Is You**: 499
     * If you were to buy all of the three, how much money would you require?
     * If you were to spend the least amount of money, but wanted to get two of those three, which two would you buy?
 How costlier is the costliest game of these three, than the cheapest?
@@ -1007,7 +1007,110 @@ You have $x$ rupees. When you give 20 to your friend, he'll have half the money 
 
 > More examples on the fly.
 
+## Geometry
 
+It is the study of the position, shape, size and other properties of different figures.
+
+Object  | Length  | Breadth  | Thickness
+------- | :-----: | :------: | :------: 
+Point   | -       | -        | -
+Line    | +       | -        | -
+Plane   | +       | +        | -
+
+### Terms
+
+#### Line
+
+- an infinite collection of points
+- unlimited length, extends on both sides
+- can be curved, but mostly straight
+- a given fixed point can have infinite number of lines pass through it
+- only one line can pass through two given points
+
+##### Ray
+
+A ray is a line that extends only on one of the two sides, while the other remains fixed at the point.
+
+- An infinite number of rays can originate from a given point.
+
+##### Line Segment
+
+A part of a line / ray, that is bound between two points.
+
+#### Surface
+
+Something that has length and widthm but no thickness.
+
+The page of your book, the face of wall, ...\
+Surfaces can be curved, like that of a ball.
+
+##### Plane
+
+A *surface* that is flat.
+
+- extends indefinitely in all directions
+- to represent a line: 3 or more points are marked on it
+- lines and points lie on a plane
+
+#### Parallel Lines
+
+The lines that never meet each other, no matter where you extend them.
+
+#### Intersecting Lines
+
+Lines that will eventually meet a point on extending the sides. In short, the lines that are not parallel.
+
+#### Co-linear Points
+
+When a line can pass through all the three points.
+
+#### Concurrent Lines
+
+The lines that have a common point of intersection.
+
+#### Open Figure
+
+A figure in which when you start at a point, you can not come back to the same point traversing along the figure in one direction.
+
+> A little about open figures with intersecting line segments
+
+#### Closed Figure
+
+A figure in which when you start at a point, you can come back to the same point traversing along the figure in one direction.
+
+##### Interior and Exterior of a Closed Figure
+
+##### Linear and Curved/Curvilinear Boundaries
+
+### Common Shapes
+
+- Triangle
+- Rectangle
+- Square
+- Circle
+
+### Perpendicular
+
+#### The Bisector
+
+## Angles
+
+Two rays originating from the same point for an angle. It's a measure of how fast they diverge from each other.
+
+### Interior and Exterior
+
+This classification is based on the regions.
+
+The region that lies within an angle is called the *interior*.
+The other is called the *exterior*.
+
+### Angle by Rotation
+
+> Explain the naming of angles.
+
+### Measuring an Angle
+
+The unit of measurement of an angle is **degree**.
 
 
 
