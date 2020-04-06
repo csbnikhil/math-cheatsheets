@@ -1133,6 +1133,45 @@ If 1 deg, is further divided into 60 equal parts, each part is called a minute. 
 - Complementary
 - Supplementary
 
+## Properties of Lines and Angles
+
+### Adjacent and Vertically Opposite Angles
+
+- When two lines intersect
+    - the adjacent angles will be complementary.
+    - vertically opposite angles will be equal.
+- If the adjacent angles are supplementary, their exterior arms are always on the same straight line. (Coverse is true.)
+
+### Parallel Lines
+
+### Traversal Lines
+
+A line that cuts two or more lines is called a **traversal**.
+
+##### Angles with Traversals
+
+- Exterior
+- Interior
+- Alternate
+    - Exterior
+    - Interior
+- Corresponding
+- Co-interior or Conjoined or Allied
+    - Exterior
+    - Interior
+
+When the traversal is going between two parallel lines,
+- corresponding angles are equal.
+- alternate angles are equal.
+- allied angles are supplementary.
+
+### Construction of Angles
+
+> Refer text book, duh.
+
+
+
+
 
 
 
