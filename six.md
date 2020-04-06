@@ -1112,6 +1112,31 @@ The other is called the *exterior*.
 
 The unit of measurement of an angle is **degree**.
 
+> An angle due to one complete rotation is called a **complete angle**.
+
+When a complete angle is divided into 360 equal parts, each part will have an angle of 1 deg.
+
+If 1 deg, is further divided into 60 equal parts, each part is called a minute. Further equivalent division will give you seconds.
+
+### Types of Angles
+
+- Acute
+- Obtuse
+- Straight
+- Reflex
+
+> **Important**: The sum is of the angles around a point is always 360 deg.
+
+- Adjacent
+- Vertically Opposite
+- Congruent
+- Complementary
+- Supplementary
+
+
+
+
+
 
 
 
