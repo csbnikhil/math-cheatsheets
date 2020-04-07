@@ -1169,6 +1169,89 @@ When the traversal is going between two parallel lines,
 
 > Refer text book, duh.
 
+## Triangles
+
+A triangle is a closed figure bounded by 3 line segments.
+
+### Terms
+
+- Vertex
+- Angle
+    - Exterior
+    - Interior
+
+### Important Results
+
+- The exterior and the adjacent interior angles are supplementary.
+- An exterior angle will always equal the sum of opposite interior angles.
+- On extending the 3 line segments beyond the vertices will give us six exterior angles (two at each vertex).
+- The sum of all interior angles of a triangle will always be equal to 180 deg.
+
+### Types
+
+#### Based on Angles
+
+- Acute
+- Obtuse
+- Right
+
+#### Based on Sides
+
+- Equilateral
+- Isosceles
+- Scalene
+
+### Altitude
+
+Perpendicular from a vertex to the opposite side.
+
+### Median
+
+Line joining the vertex of a triangle and the mid point of the opposite side.
+
+### Construction
+
+Refer the textbook.
+
+## Quadrilateral
+
+It is a four sided closed figure.
+
+### Interior and Exterior
+
+### Properties
+
+- The sum of all interior angles = 360 deg.
+    - Explain by dividing the shape into triangles.
+
+### Types
+
+- Trapezium: one of the pairs of the opposite sides is parallel
+    - non-parallel sides are equal
+- Parallelogram: both pairs of opposite sides are parallel
+- Rhombus: parallelogram with all sides equal
+- Rectangle: prallelogram will all congruent interior angles
+- Square: rectangle with all sides equal
+
+## Polygons
+
+A polygon is a closed figure bound by straight line segments.
+
+### Types
+
+Based on the number of line segments that a polygon is bound by, there are the following polygons:
+- Triangle
+- Quadrilateral
+- Pentagon
+- Hexagon
+- Septagaon
+- Octagon
+
+### Sum of Interior Angles
+
+Divide each polygon into triangles formed by its diagonals. Find the pattern.
+
+$$(n-2)\times{180}$$
 
 
 
