@@ -1253,6 +1253,70 @@ Divide each polygon into triangles formed by its diagonals. Find the pattern.
 
 $$(n-2)\times{180}$$
 
+### Sum of Exterior Angles
+
+It will always be equal to 360 deg.
+
+### Regular Polyons
+
+A polygon can be called regular, if:
+- all the interior angles are equal
+- all the exterior angles are equal
+- all sides are equal
+
+## The Circle
+
+Refer to **Circles** of [Class IX]().
+
+### Circumcircle of a Triangle
+
+A circle that passes through all the vertices of a triangle is called a **circumcircle** of that triangle.
+
+Refer the textbook for construction.
+
+### In-circle of a Triangle
+
+A circle that touches all sides of a triangle once, being inside a triangle.
+
+## Symmetry
+
+A mirror is an example of **line of symmetry**.
+On folding about that line, all the points coincide.
+
+Fold a piece of paper (in half) and cut it along the crease.
+When you open it up, there will be a new design that would be symmetrical about the crease (fold). That line is the **line of symmetry**, also called the **axis of symmetry**.
+
+### 2D Symmetry
+
+An object that can be drawn on a plane is called a 2D Object.
+
+#### Reflection
+
+There exists an axis of symmetry in the object, that acts like a mirror.
+
+> Diagrams on the fly.
+
+##### Examples
+
+- a line and its perpendicular bisector
+- an angle and is bisector
+- an isosceles triangle
+- an equilateral triangle
+- some of the letters in the English Alphabet
+
+#### Symmetric Point
+
+Draw a line. Drop a perpendicular from a point P. Extend it with the same distance on the other side. Let the new point be Q. Now Q is the symmetric point of P.
+
+This is how you locate the point of symmetry, given a line.
+
+Give two points, how would you get the line of symmetry?
+
+## Recognition of Solids
+
+
+
+
 
 
 
