@@ -1314,6 +1314,40 @@ Give two points, how would you get the line of symmetry?
 
 ## Recognition of Solids
 
+A solid is an object that occupies spaces and has a fized shape.
+
+> Talk about dimensions: a point, a line, a square, a cube.
+
+### Views of a Solid
+
+- front
+- side
+- top
+
+> Example of a cuboid (with diensions).
+
+### Polyhedrons
+
+A **polyhedron** is a solid with flat polygonal faces, straight edges and sharp corners.
+
+### Cuboid
+### Cube
+### Cylinder
+### Sphere
+### Cone
+### Prism
+### Pyramid
+
+|Solid                             |Vertices  |Edges  |Faces
+|----------------------------------|----------|-------|-----
+|Cuboid                            |8         |12     |6
+|Cube                              |8         |12     |6
+|Cylinder                          |0         |2      |3
+|Sphere                            |0         |0      |1
+|Cone                              |1         |1      |2
+|Prism                             |6         |9      |5
+|Triangular Pyramid (Tetrahedron)  |4         |6      |4
+|Rectangular Pyramid               |4         |6      |4
 
 
 
