@@ -1371,7 +1371,7 @@ $area = l^2$
 
 #### Equilateral Triangle
 
-$perimeter = 3l$\
+$perimeter = 3l$
 
 ## Data Handling
 
@@ -1389,7 +1389,42 @@ Each number collected for giving required information is called **data**.
 |4                  |22
 |> 5                |8
 
+### Raw Data
 
+Consider a list of numbers. Each number is an observation. And a collection of such observations is called raw data.
+
+#### Representation
+
+- Ascending
+- Descending
+
+> Explain non-variants of both the orders.
+
+Array: raw data arranged in order of magnitude
+
+Consider the results of students of a class. It's usually written in the form of a table. It's called the tabulated form of the data.
+
+Introduce tally. Consider a test of 10 marks and count the number of people who scored 0, 1, 2, ..., 10, using tallies. This is frequency distribution. And the number people scoring a 10 is the frequency of that observation, piece of data or information.
+
+##### Pictograph
+
+Using pictures to express the frequency is called a pictograph.
+
+##### Bar Graph
+
+Also called a column graph.
+
+## Mean and Median
+
+Refer to Averages of [Class V]().
+
+### Mean
+
+$mean = \frac{sum\;of\;observations}{number\;of\;obsesrvations}$
+
+### Median
+
+Arrange the observations in an order. The middle cvalue is the median. If there are even number of observations, the mean of the two middle elements is considered the median.
 
 
 
