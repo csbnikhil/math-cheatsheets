@@ -1330,13 +1330,13 @@ A solid is an object that occupies spaces and has a fized shape.
 
 A **polyhedron** is a solid with flat polygonal faces, straight edges and sharp corners.
 
-### Cuboid
-### Cube
-### Cylinder
-### Sphere
-### Cone
-### Prism
-### Pyramid
+#### Cuboid
+#### Cube
+#### Cylinder
+#### Sphere
+#### Cone
+#### Prism
+#### Pyramid
 
 |Solid                             |Vertices  |Edges  |Faces
 |----------------------------------|----------|-------|-----
@@ -1349,6 +1349,45 @@ A **polyhedron** is a solid with flat polygonal faces, straight edges and sharp 
 |Triangular Pyramid (Tetrahedron)  |4         |6      |4
 |Rectangular Pyramid               |4         |6      |4
 
+### Nets
+
+> Rest of the chapter is not suitable for typing. Refer the textbook.
+
+## Perimieter and Area of Plane Figures
+
+Refer to **Perimeter and Area** of [Class V]().
+
+### Generalizing the Area and Perimeter of Common Shapes
+
+#### Rectangle
+
+$perimeter = 2(l+b)$\
+$area = l\times{b}$
+
+#### Square
+
+$perimeter = 4l$\
+$area = l^2$
+
+#### Equilateral Triangle
+
+$perimeter = 3l$\
+
+## Data Handling
+
+Statistics is the science that deals with the collection, classification, tabulation, representation and interpretation of data.
+
+### Data
+
+Each number collected for giving required information is called **data**.
+
+|Number of Members  |Number of Families
+|-------------------|------------------
+|1                  |3
+|2                  |5
+|3                  |12
+|4                  |22
+|> 5                |8
 
 
 
