@@ -291,7 +291,7 @@ as VAT, which is going to be 35 in this case.
 
 I depends on P, R and T.
 
-And it can be expressed as $I = \frac{P}\times{R\times{T}}}{100}$\
+And it can be expressed as $I = \frac{P\times{R}\times{T}}{100}$\
 $\therefore A = P\times{(1 + \frac{RT}{100})}$
 
 ### Compound Interest
