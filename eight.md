@@ -94,7 +94,7 @@ $a^{-m} = \frac{1}{a^m}$
 ### More Laws
 
 - $(a\times{b})^n = a^n\times{b^n}$
-- $(\frac{a}{b})^n = \frac{a^n}{b^n}
+- $(\frac{a}{b})^n = \frac{a^n}{b^n}$
 - $a^0 = 1$, provided $a \neq 0$.
 - $a^{\frac{m}{n}}$ is $n$th root of $a$ raised to the power of $m$.
 
@@ -187,7 +187,7 @@ $665 = 6\times{100} + 6\times{10} + 5\times{1}$
 
 Find A.
 
-### Test of Divisibility
+### Tests of Divisibility
 
 Refer to [Class IV]().
 
@@ -224,19 +224,13 @@ complement(A) = U - A
 
 ### Operations
 
-### Union
-
-### Intersection
-
-### Difference
-
-### Distributive Laws
-
-### De-Morgan's Law
-
-### Cardinal Properties of Sets
-
-### Venn Diagrams
+#### Union
+#### Intersection
+#### Difference
+#### Distributive Laws
+#### De-Morgan's Law
+#### Cardinal Properties of Sets
+#### Venn Diagrams
 
 ## Percent and Percentage
 
@@ -289,15 +283,15 @@ as VAT, which is going to be 35 in this case.
 
 ### Review
 
-- Princpial (P): Money borrowed / Sum lent
-- (Simple) Interest (I): Amount paid by the borrower to the lender, for the use of money borrowed
-- Rate (R): The interest on every 100 units of money
-- Time (T): The amount of time for which the money is lent / borrowed.
-- Amount (A): The sum of money borrowed and the interest on it.
+- Princpial: Money borrowed / Sum lent
+- (Simple) Interest: Amount paid by the borrower to the lender, for the use of money borrowed
+- Rate: The interest on every 100 units of money
+- Time: The amount of time for which the money is lent / borrowed.
+- Amount: The sum of money borrowed and the interest on it.
 
 I depends on P, R and T.
 
-And it can be expressed as $I = \frac{P]times{R\times{T}}}{100}$.\
+And it can be expressed as $I = \frac{P]times{R\times{T}}}{100}$\
 $\therefore A = P\times{(1 + \frac{RT}{100})}
 
 ### Compound Interest
@@ -308,8 +302,7 @@ After every cycle, P changes to the new amount.
 
 #### Formula
 
-$A = P\times{(1 + \frac{r\times{t}}{100})^nt}$
-
+$A = P\times{(1 + \frac{r\times{t}}{100})^{nt}}$
 Here, t is the number of times the interest is compounded, per year.
 
 ## Direct and Inverse Variations
@@ -536,7 +529,7 @@ Refer text book.
 
 Revise some basic units of measurement.
 
-### Traingles
+### Traingle
 
 Consider a triangle of sides a, b and c.
 
@@ -545,26 +538,26 @@ $p = a + b + c$
 $a = \sqrt{s(s - a)(s - b)(s - c)}$, where $s=\frac{a + b + c}{2}$.\
 $a = \frac{1}{2}\times{base\times{height}}$
 
-### Rectangles
+### Rectangle
 
 $p = 2(l + b)$\
 $a = l\times{b}$\
 $length\;of\;diagonal=\sqrt{l^2+b^2}$
 
-### Squares
+### Square
 
 $p = 4l$\
 $a = l^2$\
 $length\;of\;diagonal=\sqrt{2}l^2$
 
-### Trapeziums
+### Trapezium
 
 Area of a trapezium will be equal to the sum of areas of two right triangles,
 and the rectangle in the middle.
 
 $Area = \frac{1}{2}\times{(a + b)}\times{height}$
 
-### Parallelograms
+### Parallelogram
 
 $Area = base\times{height}$
 
@@ -608,7 +601,7 @@ and it is not possible to know the outcome beforehand.
 
 #### Trial
 
-#### Equally Likele Outcomes
+#### Equally Likely Outcomes
 
 ### Defining Probability
 
