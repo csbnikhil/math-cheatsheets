@@ -543,13 +543,80 @@ Consider a triangle of sides a, b and c.
 $p = a + b + c$
 
 $a = \sqrt{s(s - a)(s - b)(s - c)}$, where $s=\frac{a + b + c}{2}$.\
-$a = \frac{1}{2}\times{base\times{height}}$\
+$a = \frac{1}{2}\times{base\times{height}}$
 
 ### Rectangles
 
 $p = 2(l + b)$\
 $a = l\times{b}$\
 $length\;of\;diagonal=\sqrt{l^2+b^2}$
+
+### Squares
+
+$p = 4l$\
+$a = l^2$\
+$length\;of\;diagonal=\sqrt{2}l^2$
+
+### Trapeziums
+
+Area of a trapezium will be equal to the sum of areas of two right triangles,
+and the rectangle in the middle.
+
+$Area = \frac{1}{2}\times{(a + b)}\times{height}$
+
+### Parallelograms
+
+$Area = base\times{height}
+
+### Rhombus
+
+$Area = \frac{1}{2}\times{d1\times{d2}}$
+
+### Circle
+
+$Perimeter = \pi d = 2\pi r$\
+$Area = \pi r^2$
+
+Refer [Class IX]() for more definitions.
+
+## Volume and Capacity
+
+### Cuboid
+
+$V = l\times{b\times{h}}$\
+$TSA = 2(lb + bh + hl)$
+
+### Cube
+
+$V = l^3$\
+$TSA = 6l^2$
+
+## Probability
+
+An experiment is an action which results in a well defined outcome.\
+A random experiment is one where there more than one possible outcomes,
+and it is not possible to know the outcome beforehand.
+
+### Examples
+
+- toss of a coin
+- toss of two coins
+- roll of a die
+- roll of dice
+
+### Terms
+
+#### Trial
+
+#### Equally Likele Outcomes
+
+### Defining Probability
+
+Consider a random exp with n possible outcomes, and an event E with m desirable
+outcomes, then probability of E is defined as
+
+$$P(E) = \frac{m}{n}$$
+
 
 
 
