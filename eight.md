@@ -543,7 +543,7 @@ Consider a triangle of sides a, b and c.
 $p = a + b + c$
 
 $a = \sqrt{s(s - a)(s - b)(s - c)}$, where $s=\frac{a + b + c}{2}$.\
-$a = \fract{1}{2}\times{base\times{height}}$\
+$a = \frac{1}{2}\times{base\times{height}}$\
 
 ### Rectangles
 
