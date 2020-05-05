@@ -431,7 +431,7 @@ $3x^2 + 12x - 36$\
 $3(x^2 + 4x - 12)$\
 $3(x^2 + 6x - 2x - 12$\
 $3(x(x + 6) - 2(x + 6)$\
-$3(x - 6)(x - 2)
+$3(x - 6)(x - 2)$
 
 ## Linear Equations in One Variable
 
@@ -487,7 +487,7 @@ each angle will be equal to $\frac{(n-1)\times{180}}{n}$.
 
 A polygon with 4 sides.
 
-*Theorem 1*: Sum of interior angles = 360 deg.
+**Theorem 1**: Sum of interior angles = 360 deg.
 
 ## Quadrilaterals
 
@@ -496,11 +496,11 @@ A polygon with 4 sides.
 - Parallelogram
     - both pairs of opposite sides are parallel.
 
-*Theorem 2*
+**Theorem 2**
 
 In a parallelogram, opposite sides are parallel and equal, and the diagonals bisect the figure.
 
-*Theorem 3*
+**Theorem 3**
 
 If a pair of oppsite sides are parellel and equal, it is a parallelogram.
 
@@ -566,7 +566,7 @@ $Area = \frac{1}{2}\times{(a + b)}\times{height}$
 
 ### Parallelograms
 
-$Area = base\times{height}
+$Area = base\times{height}$
 
 ### Rhombus
 
@@ -602,7 +602,7 @@ and it is not possible to know the outcome beforehand.
 - toss of a coin
 - toss of two coins
 - roll of a die
-- roll of dice
+- roll of two dice
 
 ### Terms
 
