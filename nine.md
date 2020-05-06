@@ -128,105 +128,6 @@ the lengths of the arcs will be equal.
 
 Converse of the previous theorem.
 
-## Statistics
-
-### Variable
-
-A quantity that varies from one individual to another.
-
-- wage of a person
-- height of a person
-
-#### Types
-
-- Continuous
-- Discrete
-
-### Tabulation
-
-### Frquency
-
-#### Frquency Distribution
-
-#### Class Intervals and Limits
-
-- adjustment
-- size
-- mark
-
-#### Cumulative Frequncies
-
-### Graphs
-
-- histogram
-- frequency polygon
-    - using histogram
-    - without a histogram
-
-## Mean and Median
-
-$mean = $\frac{1}{n} \sum_{i=1}^n x_i$
-
-To find the median of an ungrouped data,
-arrange the data in ascending or descending order.
-If there are odd data elements, the middle one will be the median, else the mean of the two middle terms will be the median.
-
-### Properties of Mean
-
-- $\sum (x - x') = 0$
-- If each observation is increased by a quantity $a$, the new mean will be
-$x' + a$
-- If each observation is decreased by a quantity $a$, the new mean will be
-$x' + a$
-- ... $x' \times a$
-- ... $x' \div a$
-
-## Solids
-
-Solid: Anything that occupies space and has a definite shape.
-Volume: The space occupied by a solid.
-Surface Area: The sum of the area of all surfaces enclosing the solid.
-
-### Cuboid
-
-$diagonal = \sqrt{l^2 + b^2 + h^2}$
-
-### Cube
-
-$diagonal = a \sqrt{3}$
-
-### Cross Section
-
-The cut made through a solid perpendicular to its length is called its cross-section.
-
-### Flow of Water
-
-## Trigonometrical Ratios
-
-> Explain base, perpendicular and the hypotenuse.
-
-Angles can be denoted by the following symbols:
-$\theta, \gamma, \phi, \beta, \alpha$
-
-### Ratios
-
-Let $H$ be the hypotenuse, $O$ be the opposite side of $\theta$ and $A$ be the adjacent side of $\theta$.
-
-- $sin(\theta) = \frac{O}{H}$
-- $cos(\theta) = \frac{A}{H}$
-- $tan(\theta) = \frac{O}{A}$
-- $csc(\theta) = \frac{H}{O}$
-- $sec(\theta) = \frac{H}{A}$
-- $cot(\theta) = \frac{A}{O}$
-
-
-
-
-
-
-
-
-
 ## Compound Interest
 
 $Amount = Principal + Interest$,
@@ -483,6 +384,112 @@ and between the same parallel.
 
 Triangles on the same base and between the same parallels
 are equal in area.
+
+## Statistics
+
+### Variable
+
+A quantity that varies from one individual to another.
+
+- wage of a person
+- height of a person
+
+#### Types
+
+- Continuous
+- Discrete
+
+### Tabulation
+
+### Frquency
+
+#### Frquency Distribution
+
+#### Class Intervals and Limits
+
+- adjustment
+- size
+- mark
+
+#### Cumulative Frequncies
+
+### Graphs
+
+- histogram
+- frequency polygon
+    - using histogram
+    - without a histogram
+
+## Mean and Median
+
+$mean = $\frac{1}{n} \sum_{i=1}^n x_i$
+
+To find the median of an ungrouped data,
+arrange the data in ascending or descending order.
+If there are odd data elements, the middle one will be the median, else the mean of the two middle terms will be the median.
+
+### Properties of Mean
+
+- $\sum (x - x') = 0$
+- If each observation is increased by a quantity $a$, the new mean will be
+$x' + a$
+- If each observation is decreased by a quantity $a$, the new mean will be
+$x' + a$
+- ... $x' \times a$
+- ... $x' \div a$
+
+## Solids
+
+Solid: Anything that occupies space and has a definite shape.
+Volume: The space occupied by a solid.
+Surface Area: The sum of the area of all surfaces enclosing the solid.
+
+### Cuboid
+
+$diagonal = \sqrt{l^2 + b^2 + h^2}$
+
+### Cube
+
+$diagonal = a \sqrt{3}$
+
+### Cross Section
+
+The cut made through a solid perpendicular to its length is called its cross-section.
+
+### Flow of Water
+
+## Trigonometrical Ratios
+
+> Explain base, perpendicular and the hypotenuse.
+
+Angles can be denoted by the following symbols:
+$\theta, \gamma, \phi, \beta, \alpha$
+
+### Ratios
+
+Let $H$ be the hypotenuse, $O$ be the opposite side of $\theta$ and $A$ be the adjacent side of $\theta$.
+
+- $sin(\theta) = \frac{O}{H}$
+- $cos(\theta) = \frac{A}{H}$
+- $tan(\theta) = \frac{O}{A}$
+- $csc(\theta) = \frac{H}{O}$
+- $sec(\theta) = \frac{H}{A}$
+- $cot(\theta) = \frac{A}{O}$
+
+### Ratios of Common Angles
+
+Function  |0                     |30                    |45                    |60                    |90
+----------|----------------------|----------------------|----------------------|----------------------|--
+sin       |$0$                   |$\frac{1}{2}$         |$\frac{1}{\sqrt{2}}$  |$\frac{\sqrt{3}}{2}$  |$1$
+cos       |$1$                   |$\frac{\sqrt{3}}{2}$  |$\frac{1}{\sqrt{2}}$  |$\frac{1}{2}$         |$0$
+tan       |$1$                   |$\frac{1}{\sqrt{3}}$  |$1$                   |$\sqrt{3}$            |$\infty$
+
+
+
+
+
+
+
 
 
 
