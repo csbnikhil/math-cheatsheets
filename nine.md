@@ -177,6 +177,88 @@ $\log_3 81 = 4$, and read `log of 81 to the base 3 equals 4`.
 - Quotient: $\log_a (m\div n) = \log_a m - \log_a n$
 - Power: $\log_a m^n = n \log_a m$
 
+## Conguency in Triangles
+
+### Relation between Sides and Angles
+
+- If the sides are all different, the angles will also be different,
+in such a way that a greater side has a greater angle opposite ti it.
+- Converse of the above point is also true.
+- If two angles are equal, the sides opposite to those angles are also equal.
+- If all the sides of a triangle are equal, all its angles will also be equal.
+- Converse of the above statement is also true.
+
+### Terms
+
+- Median
+- Altitude
+- Centroid
+- Orthocenter
+
+### Corollaries
+
+- If one side of a triangle is produced, the exterior angle so formed
+is greater than each of the interior opposite angles.
+- A triangle can't have more than one right angle.
+- A triangle can't have more than one obtuse angle.
+- In a right triangle, the the other two acute angles will be complementary.
+- In every triangle, at least two angles are acute.
+- If two angles of a triangle are equal to two angles of another triangle,
+then the the third angle of the two triangles will also be equal.
+
+### Congruent Triangles
+
+Two triangles are said to be congruent, if all the sides and angles of both the triangles are equal.
+
+#### Coonditions
+
+- SSS
+- SAS
+- ASA
+- AAS
+- RHS
+
+> **Important**: When writing triangles' congruency, we need to make sure that we write the corresponding sides in the same order.
+
+## Isosceles Triangles
+
+**Theorem 1**
+
+If two sides of a triangle are equal, then the sides opposite to the two angles will also be equal.
+
+**Theorem 2**
+
+If two angles of a triangle are equal, then the sides opposite to the two angles will also be equal.
+
+## Inequalities
+
+### The Signs
+
+$>$ is greater than.\
+$<$ is less than.
+
+**Theorem 3**
+
+If two sides of a triangle are unequal, the greater sidehas the greater angle opposite to it.
+
+**Theorem 4**
+
+Converse of **Theorem 3**.
+
+**Theorem 5**
+
+Of all the lines that can be drawn to a given straight line from a given point outside it,
+the perpendicular is the shortest.
+
+### Corollaries
+
+- The sum of the lengths of any two sides of a triangle
+is always greate than the greates side.
+- The difference between any two sides is always less than the third side.
+
+## Midpoint and Its Converse
+
+
 
 
 
