@@ -42,12 +42,12 @@ Square Roots of not perfect squares, Cube Roots of not perfect cubes, are all
 irrational numbers. Their decimal has no period, no recurrence, and they cannot be
 written in the form of a fraction.
 
-#### Proving the $\sqrt{2}$ is Irrational
+#### Proving that $\sqrt{2}$ is Irrational
 
 #### Inserting an Irrational Number
 
 If a and b are the numbers, a rational between them would be (a + b) / 2.\
-And an irrational between them would be $sqrt{a\timesb}$.
+And an irrational between them would be $sqrt{a\times{b}}$.
 
 
 ## Circles
