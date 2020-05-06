@@ -86,12 +86,145 @@ A circle is a collection of points all of which are equidistant from a fixed poi
 * Radius: The distance of any point on the circle from the center of the circle.
 * Chord: A line joining any two points on the circle.
 * Diameter: A __chord__ passing the center. [fact: a diameter will always be twice the radius]
+* Arc: A part of the circumference.
 * Segment: A part of a circle formed by a chord.
     * Major: Contains the center
     * Minor: Does not contain the center
 * Sector: A part of a circle formed by two radii.
     * Major: Reflex angle at the center
     * Minor: An angle less than 180 deg. at the center
+
+### Chords
+
+**Theorem 22**
+
+A straight line drawn from the center of a circle to bisect the chord
+will be perpendicular to the chord.
+
+**Theorem 23**
+
+Converse of the previous theorem.
+
+**Theorem 24**
+
+Equal chords are equidistant from the center.
+
+**Theorem 25**
+
+Converse of the previous theorem.
+
+**Theorem 26**
+
+There is one and only one circle which passes through three non-colinear points.
+
+### Arcs
+
+**Theorem 27**
+
+If two arcs of the same circle subtend equal angles at the center,
+the lengths of the arcs will be equal.
+
+**Theorem 28**
+
+Converse of the previous theorem.
+
+## Statistics
+
+### Variable
+
+A quantity that varies from one individual to another.
+
+- wage of a person
+- height of a person
+
+#### Types
+
+- Continuous
+- Discrete
+
+### Tabulation
+
+### Frquency
+
+#### Frquency Distribution
+
+#### Class Intervals and Limits
+
+- adjustment
+- size
+- mark
+
+#### Cumulative Frequncies
+
+### Graphs
+
+- histogram
+- frequency polygon
+    - using histogram
+    - without a histogram
+
+## Mean and Median
+
+$mean = $\frac{1}{n} \sum_{i=1}^n x_i$
+
+To find the median of an ungrouped data,
+arrange the data in ascending or descending order.
+If there are odd data elements, the middle one will be the median, else the mean of the two middle terms will be the median.
+
+### Properties of Mean
+
+- $\sum (x - x') = 0$
+- If each observation is increased by a quantity $a$, the new mean will be
+$x' + a$
+- If each observation is decreased by a quantity $a$, the new mean will be
+$x' + a$
+- ... $x' \times a$
+- ... $x' \div a$
+
+## Solids
+
+Solid: Anything that occupies space and has a definite shape.
+Volume: The space occupied by a solid.
+Surface Area: The sum of the area of all surfaces enclosing the solid.
+
+### Cuboid
+
+$diagonal = \sqrt{l^2 + b^2 + h^2}$
+
+### Cube
+
+$diagonal = a \sqrt{3}$
+
+### Cross Section
+
+The cut made through a solid perpendicular to its length is called its cross-section.
+
+### Flow of Water
+
+## Trigonometrical Ratios
+
+> Explain base, perpendicular and the hypotenuse.
+
+Angles can be denoted by the following symbols:
+$\theta, \gamma, \phi, \beta, \alpha$
+
+### Ratios
+
+Let $H$ be the hypotenuse, $O$ be the opposite side of $\theta$ and $A$ be the adjacent side of $\theta$.
+
+- $sin(\theta) = \frac{O}{H}$
+- $cos(\theta) = \frac{A}{H}$
+- $tan(\theta) = \frac{O}{A}$
+- $csc(\theta) = \frac{H}{O}$
+- $sec(\theta) = \frac{H}{A}$
+- $cot(\theta) = \frac{A}{O}$
+
+
+
+
+
+
+
 
 
 ## Compound Interest
@@ -257,6 +390,106 @@ is always greate than the greates side.
 - The difference between any two sides is always less than the third side.
 
 ## Midpoint and Its Converse
+
+**Theorem 6**
+
+The line segment joining the mid-points of any two sides of a triangle is parallel to the third side and
+is qual to half of it.
+
+**Theorem 7**
+
+The straight line drawn through the mid-point of one side parallel to the another side
+bisects the third side.
+
+### Equal Intercept Theorem
+
+**Theorem 8**
+
+If a transversal makes equal intercepts on three or more parallel lines,
+any other line cutting them will also make equal intercepts.
+
+## Pythagoras Theorem
+
+> Prove.
+
+- area based
+- constructing a perpendicular
+
+## Rectilinear Figures
+
+Rectilinear means long a straight line, in a straight line,
+or forming a straight line.
+
+### Names of Polygons
+
+- triangle
+- quadrilateral
+- pentagon
+- hexagon
+- heptagon
+- octagon
+
+### Kinds of Quadrilaterls
+
+Refer to [Class VIII]().
+
+**Theorem 11**
+
+In a parallelogram, both pairs of opposite sides are equal.
+
+**Theorem 12**
+
+In a parallelogram, both pairs of opposite angles are equal.
+
+**Theorem 12**
+
+If one pair of opposites if a quad are equal and parallel,
+it is a parallelogram.
+
+**Theorem 14**
+
+Each diagonal of a prallelogram, bisects the shape.
+
+**Theorem 15**
+
+The diagonals of a parallelogram bisect each other.
+
+**Theorem 16**
+
+A rhombus' diagonals meet at right angles.
+
+**Theorem 17**
+
+A rectangle's diagonals are equal.
+
+**Theorem 18**
+
+A square's diagonals meet at right angles.
+
+## Area Theorems
+
+### Figures Between the Same Parallels
+
+**Theorem 19**
+
+Parallelograms on the same base and between the same parallels are equal in area.
+
+**Theorem 20**
+
+The area of a triangle is half that of a parallelogram on the same base,
+and between the same parallel.
+
+**Theorem 21**
+
+Triangles on the same base and between the same parallels
+are equal in area.
+
+
+
+
+
+
+
 
 
 
