@@ -158,6 +158,21 @@ Consider the following equations:
 $a_1x + b_1y + c_1 = 0$\
 $a_2x + b_2y + c_2 = 0$
 
+### Reducible to Linear Equations
+
+$\frac{4}{x} + \frac{7}{y} = 9$
+
+## Indices
+
+Refer to Exponents of [Class VIII]().
+
+## Logarithms
+
+Consider $3^4 = 81$. In logarithms, we can express the same equations as:
+$\log_3 81 = 4$, and read `log of 81 to the base 3 equals 4`.
+
+
+
 
 
 
