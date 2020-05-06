@@ -10,8 +10,45 @@ But there are numbers which cannot be written as a fraction,
 they have a decimal expansion with no repitition, but goes on and on forever.
 For example, the Golden Number, Pi, square root of 2, ...\
 These numbers are called irrational numbers. Rantional and Irrational Numbers
-are together called Real Numbers, which is a set and encompasses every number
+are together called Real Numbers, which is a set that encompasses every number
 that exists on the Number Line.
+
+### Finding n Rational Numbers
+
+Consider $x$ and $y$ to belong to $Q$, and $x > y$.\
+Find $d = \frac{y - x}{n + 1}$.\
+You can go on finding terms by the following sequence: $x+d, x+2d, x+3d, ..., x+nd$
+
+### Properties
+
+Refer to [Class VIII]().
+
+### Decimal Representation
+
+#### Terminating and Non-Terminating
+
+1 / 8 = 0.125\
+12 / 5 = 2.4\
+10 / 3 = 1.3333333333...
+
+Explain (recurring | periodic | circulating) decimals, and also it's
+period.
+
+> A bar is used to represent the period.
+
+### Irrational Numbers
+
+Square Roots of not perfect squares, Cube Roots of not perfect cubes, are all
+irrational numbers. Their decimal has no period, no recurrence, and they cannot be
+written in the form of a fraction.
+
+#### Proving the $\sqrt{2}$ is Irrational
+
+#### Inserting an Irrational Number
+
+If a and b are the numbers, a rational between them would be (a + b) / 2.\
+And an irrational between them would be $sqrt{a\timesb}$.
+
 
 ## Circles
 
