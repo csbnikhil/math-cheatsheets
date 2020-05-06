@@ -15,7 +15,7 @@ that exists on the Number Line.
 
 ### Finding n Rational Numbers
 
-Consider $x$ and $y$ to belong to $Q$, and $x > y$.\
+Consider $x$ and $y$ to belong to $Q$, and $y > x$.\
 Find $d = \frac{y - x}{n + 1}$.\
 You can go on finding terms by the following sequence: $x+d, x+2d, x+3d, ..., x+nd$
 
@@ -47,8 +47,34 @@ written in the form of a fraction.
 #### Inserting an Irrational Number
 
 If a and b are the numbers, a rational between them would be (a + b) / 2.\
-And an irrational between them would be $sqrt{a\times{b}}$.
+And an irrational between them would be $\sqrt{a\times{b}}$.
 
+### Examining the Irrationality
+
+If an irration number is in the denominator, multiply that number to both the denominator
+and the numerator.\
+If $a+b\sqrt{c}$ is in the denominator, multiply the numerator and the denominator by
+$a-b\sqrt{c}$. Recall the Identitites.
+
+### Surds
+
+If x is a +ve Q and n is a positive integer, such that 1 over $x^n$ is irrational;
+then $\frac{1}{x^n}$ is called a *surd*.
+
+#### Rationalization
+
+When two or more surds multiplied together to form a rational,
+all those surds are called the rationalizing factors.
+
+The process of rationalizing a surd by multiplying its rationalizing factor
+is called *rationalization*.
+
+> Explain how to find the least rationalizing factor.
+
+##### Simplifying
+
+Multiplying the denominator and the numerator by the **conjuagate** of the surd
+in the denominator...
 
 ## Circles
 
@@ -66,6 +92,75 @@ A circle is a collection of points all of which are equidistant from a fixed poi
 * Sector: A part of a circle formed by two radii.
     * Major: Reflex angle at the center
     * Minor: An angle less than 180 deg. at the center
+
+
+## Compound Interest
+
+$Amount = Principal + Interest$,
+where $Interest = \frac{P\times{R}\times{T}}{100}$
+
+Compound Interest is a repeated Simple Interest, but increasing Principal.
+
+> Explain the origin of $e$. Consider a hypothetical scenario where the interest is 100%
+per year, and pricipal is 1, then increase the frequency of compounding.
+
+### Formula
+
+> Derive.
+
+## Expansions
+
+Recall Identities from [Class VIII]().
+
+### $(a + b)^3$
+
+> Expand.
+
+- $a^3 + b^3 = (a + b)^3 - 3ab(a + b)$
+- $a^3 - b^3 = (a - b)^3 + 3ab(a - b)$
+
+### Important Results
+
+If $a+b+c=0$; then $a^3+b^3+c^3=3abc$.
+> Prove.
+
+### $(x+a)(x+b)$
+
+> Expand and explain.
+
+### $(a + b + c)^2$
+
+## Factorization
+
+- common terms
+- grouping
+- trinomials: splitting the middle term
+- difference of two squares
+- sum and difference of two cubes
+
+## Simultaneous Equations
+
+If there are two unknowns in 1 equation, the solution for the equation cannot be found
+until another equation establishes a different relation among the two.
+The relation will be another equation, and the two are called **simultaneous equations**.
+
+### Methods
+
+- Eliminations
+    - Substitution
+    - Coefficients
+- Cross Multiplication
+
+#### Explaining Cross Multiplication
+
+Consider the following equations:
+
+$a_1x + b_1y + c_1 = 0$\
+$a_2x + b_2y + c_2 = 0$
+
+
+
+
 
 
 
