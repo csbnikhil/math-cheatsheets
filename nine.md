@@ -168,9 +168,14 @@ Refer to Exponents of [Class VIII]().
 
 ## Logarithms
 
-Consider $3^4 = 81$. In logarithms, we can express the same equations as:
+Consider the exponential form $3^4 = 81$. In logarithms, we can express the same equations as:
 $\log_3 81 = 4$, and read `log of 81 to the base 3 equals 4`.
 
+### Laws
+
+- Product: $\log_a (m\times n) = \log_a m + \log_a n$
+- Quotient: $\log_a (m\div n) = \log_a m - \log_a n$
+- Power: $\log_a m^n = n \log_a m$
 
 
 
