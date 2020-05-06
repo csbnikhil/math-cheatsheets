@@ -3,6 +3,15 @@
 <!--
 1. [Circles](#circles)
 -->
+## Real Numbers
+
+Rational Numbers are those which can be written in the form p/q where q != 0.
+But there are numbers which cannot be written as a fraction,
+they have a decimal expansion with no repitition, but goes on and on forever.
+For example, the Golden Number, Pi, square root of 2, ...\
+These numbers are called irrational numbers. Rantional and Irrational Numbers
+are together called Real Numbers, which is a set and encompasses every number
+that exists on the Number Line.
 
 ## Circles
 
