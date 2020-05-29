@@ -1,5 +1,26 @@
 # Class X
 
+- Real Numbers
+- Polynomials
+- Pair of Linear Equations in Two Variables
+- Quadratic Equations
+- Arithmetic Progressions
+- Triangles
+- Coordinate Geometry
+- Intro to Trigonometry
+- Applications of Trigonometry
+- Circles
+- Constructions
+- Areas Related to Circles
+- Surface Areas and Volumes
+- Statistics
+- Probability
+
+
+## Real Numbers
+
+
+
 
 
 
